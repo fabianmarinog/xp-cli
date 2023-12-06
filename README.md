@@ -1,6 +1,6 @@
 ## Setup CLI:
 
-1. Install Node.js (18+)
+1. Install Node.js (18+) https://nodejs.org/en/download
 2. Open the terminal and run: `mkdir XPCLI`
 3. `cd XPCLI`
 4. `npm init` and fill the prompt
